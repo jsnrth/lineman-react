@@ -1,0 +1,41 @@
+{
+  "name": "lineman-react",
+  "description": "React.js lineman plugin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jsnrth/lineman-react",
+  "author": {
+    "name": "Jason Roth",
+    "email": "jasonmichaelroth@gmail.com"
+  },
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsnrth/lineman-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsnrth/lineman-react/issues"
+  },
+  "dependencies": {
+    "grunt-react": "~0.9.0",
+    "coffee-script": "~1.6.3"
+  },
+  "peerDependencies": {
+    "lineman": ">= 0.33.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-release": "^0.7.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "lineman",
+    "linemanplugin",
+    "react"
+  ]
+}
