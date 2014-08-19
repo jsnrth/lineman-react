@@ -25,3 +25,7 @@ window.app.components.MyComponent = React.createClass({
 
 });
 ```
+
+## License
+
+[MIT License.](http://opensource.org/licenses/MIT)
