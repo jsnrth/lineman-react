@@ -2,7 +2,7 @@
   "name": "lineman-react",
   "description": "React.js lineman plugin",
   "version": "0.0.1",
-  "homepage": "https://github.com/jsnrth/lineman-react",
+  "homepage": "https://github.com/tendrilinc/lineman-react",
   "author": {
     "name": "Jason Roth",
     "email": "jasonmichaelroth@gmail.com"
@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsnrth/lineman-react.git"
+    "url": "https://github.com/tendrilinc/lineman-react.git"
   },
   "bugs": {
-    "url": "https://github.com/jsnrth/lineman-react/issues"
+    "url": "https://github.com/tendrilinc/lineman-react/issues"
   },
   "dependencies": {
     "grunt-react": "~0.9.0",
