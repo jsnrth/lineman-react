@@ -2,6 +2,8 @@
 
 Compiles JSX files in your [Lineman](http://linemanjs.com) app. Uses [grunt-react](https://www.npmjs.org/package/grunt-react) under the hood.
 
+See also the [Lineman React + Backbone template](https://github.com/jsnrth/lineman-backbone-react-template).
+
 ## Installation
 
 ```bash
